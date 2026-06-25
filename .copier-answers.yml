@@ -21,7 +21,7 @@ rebel_module_groups: []
 repo_description: odoo-pim
 repo_name: odoo-pim
 repo_slug: odoo-pim
-repo_website: https://github.com/OCA/odoo-pim
+repo_website: https://github.com/it-fact/it-fact-apps
 use_pyproject_toml: true
 use_ruff: true
 
